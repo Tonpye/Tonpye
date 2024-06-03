@@ -8,5 +8,5 @@
 </div>
 
 <div allign= "center"> 
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@9eb04d31-1e1f-4f2b-9d7c-bdeda3676a99/6d43712e-67ea-43e8-b386-97195f505d5f.png" /></a>
+  <img src="https://wakatime.com/share/@9eb04d31-1e1f-4f2b-9d7c-bdeda3676a99/4726830e-eac4-426f-ab4b-a3adf6b32f77.svg" width= 200 height= 150>
 </div>
