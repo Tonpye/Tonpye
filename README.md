@@ -7,15 +7,12 @@
   <img alt="Lua Badge" src="https://img.shields.io/badge/lua-gray?style=for-the-badge&logo=lua&logoColor=white&logoSize=auto"/>
 </div>
 
-<div align= "center"> 
-  <img src="https://wakatime.com/share/@9eb04d31-1e1f-4f2b-9d7c-bdeda3676a99/4726830e-eac4-426f-ab4b-a3adf6b32f77.svg" width= 400 height= 300>
-</div>
 
 <hr>
  <details>
    <summary>Status de Tempo de Codigo</summary>
     <p align ="center">
-      <img src="https://wakatime.com/share/@9eb04d31-1e1f-4f2b-9d7c-bdeda3676a99/4726830e-eac4-426f-ab4b-a3adf6b32f77.svg" width= 400 height= 300>
+      <img src="https://wakatime.com/share/@9eb04d31-1e1f-4f2b-9d7c-bdeda3676a99/4726830e-eac4-426f-ab4b-a3adf6b32f77.svg">
     </p>
  </details>
 <hr>
