@@ -13,7 +13,7 @@
    <summary>Status de Tempo de Codigo</summary>
     <p>
       <img src="https://wakatime.com/share/@9eb04d31-1e1f-4f2b-9d7c-bdeda3676a99/4726830e-eac4-426f-ab4b-a3adf6b32f77.svg" width=600 heigth=500>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5" width=300 height=200>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical" width=300 height=200>
     </p>
  </details>
 <hr>
