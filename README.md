@@ -1,13 +1,12 @@
 <div align="center">
-  <img src="https://i.imghippo.com/files/waukV1717385749.jpg" alt="" border="0">
+  <img src="https://i.imghippo.com/files/waukV1717385749.jpg" alt="gato banner" border="0">
 </div>
 
 <div align="center" id="badges">
-  <a href="https://www.python.org/">
-    <img alt="Python Badge" src="https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python&logoColor=white&logoSize=auto"/>
-  </a>
-  <a href="https://www.lua.org/home.html">
-    <img alt="Lua Badge" src="https://img.shields.io/badge/lua-gray?style=for-the-badge&logo=lua&logoColor=white&logoSize=auto"/>
+  <a href="[https://www.python.org/](https://www.python.org/about/)">
+    <img alt="Static Badge" src="https://img.shields.io/badge/python-gray?style=for-the-badge&logo=python&logoColor=white&logoSize=auto"> 
+  <a href="[https://www.lua.org/home.html](https://lua.org/)](https://lua.org/about.html)">
+    <img alt="Lua Badge" src="https://img.shields.io/badge/lua-gray?style=for-the-badge&logo=lua&logoColor=white&logoSize=auto">
   </a>
 </div>
 
